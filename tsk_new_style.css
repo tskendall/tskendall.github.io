@@ -1,0 +1,80 @@
+BODY	{
+	font-family:      Georgia, Times, serif;
+	font-size:        90%;
+	line-height: 	  98%;
+	color:            #222222;
+	margin-left:	  5 em;
+	margin-right:	  5 em;
+	}
+TD	{
+	font-family:      Georgia, Times, serif;
+	font-size:        90%;
+	line-height: 	  96%;
+	color:            #222222;
+	}
+H1	{
+	font-size: 200%;
+	}
+H2	{
+	font-size: 180%;
+	}
+H3	{
+	font-size: 150%;
+	}
+A:link {
+	color:		  #006666;
+	text-decoration:  none;
+}
+A:hover {
+	color:		  #003333;
+	text-decoration:  underline;
+}
+A:active {
+	color:		  #003333;
+	text-decoration:  none;
+}
+A:visited {
+	color:		  #006666;
+	text-decoration:  none;
+}
+A.named {
+	font-size: 6px;
+	text-decoration: none;
+}
+A.nodec {
+	text-decoration: none;
+}
+TD.inv {
+        background-color: #444444;
+        color: #cccccc;
+	font-size: 115%;
+    }
+TD.inv A {
+       color: #ffeeee;
+}
+DIV.ct {
+	margin-left: 1em;
+}
+.vbg {
+	font-size: 180%;
+	font-weight: bold;
+}
+.bg {
+	font-size: 115%;
+}
+.sm {
+	font-size: 85%;
+}
+.smr {
+	font-size: 70%;
+}
+.clr {
+        color: #cc6600;
+}
+UL.pubs {
+	text-indent: -1em;
+	list-style: none;
+}
+LI {
+	padding-bottom: 1em;
+}
